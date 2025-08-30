@@ -1,0 +1,134 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+/*Entrada para o site*/
+
+
+.entrar{
+   background-color: rgb(12, 50, 88);
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   height: 800px;
+   flex-direction: column;
+}
+.botao_entrar{
+    width: 180px;
+    height: 60px;
+    color: white;
+    background-color: rgb(0, 106, 177);
+    border-radius: 10px;
+    border: solid rgb(0, 32, 65) 5px;
+    font-family: cursive;
+    font-size: large;
+
+}
+.botao_entrar:active{
+    background-color: #D32F2F;
+  transform: translateY(4px);
+}
+
+/*fim do primeiro site*/
+
+
+/*segundo site*/
+
+
+.pietra{
+    background-color: rgb(28, 63, 128);
+    align-items: center;
+}
+header{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: rgb(87, 146, 255);
+    height: 50px;
+}
+.cabeçalho{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 200px;
+    height: 100px;
+    text-transform: uppercase;
+    font-family: cursive;
+}
+
+.main1{
+    height: 2500px;
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    margin: 10px 20px 10px 20px;
+}
+
+
+
+p{
+    font-size: 20px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.img1{
+    border-radius: 10px;
+    margin: 20px;
+    text-align: center;
+    background-color: rgb(87, 146, 255);
+    width: 350px;
+    height: 300px;
+}
+
+.img2{
+    border-radius: 10px;
+    margin: 30px;
+    text-align: center;
+    background-color: rgb(87, 146, 255);
+    width: 350px;
+    height: 300px;
+}
+.img3{
+    border-radius: 10px;
+    margin: 30px;
+    text-align: center;
+    background-color: rgb(87, 146, 255);
+    width: 350px;
+    height: 300px;
+}
+.img4{
+    border-radius: 10px;
+    margin: 30px;
+    text-align: center;
+    background-color: rgb(87, 146, 255);
+    width: 350px;
+    height: 300px;
+}
+.img5{
+    border-radius: 10px;
+    margin: 30px;
+    text-align: center;
+    background-color: rgb(87, 146, 255);
+    width: 350px;
+    height: 300px;
+}
+.img6{
+    border-radius: 10px;
+    margin: 30px;
+    text-align: center;
+    background-color: rgb(87, 146, 255);
+    width: 350px;
+    height: 300px;
+}
+.img7{
+    border-radius: 10px;
+    margin: 30px;
+    text-align: center;
+    background-color: rgb(87, 146, 255);
+    width: 350px;
+    height: 300px;
+}
+
+/*pag img1*/
+
